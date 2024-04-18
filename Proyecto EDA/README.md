@@ -1,4 +1,4 @@
-## Ejemplo de Imagen
+
 
 ![escudo](img/a.jpg)
 
