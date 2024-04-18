@@ -1,3 +1,6 @@
+## Ejemplo de Imagen
+
+![escudo](img/a.jpg)
 
 
 # Análisis Exploratorio de Datos: Llegada de Peter Lim al Valencia CF
