@@ -3,15 +3,15 @@
 1,Jasper Cillessen,Portero,33,Países Bajos,3.0
 2,Jaume Doménech,Portero,31,España,2.0
 3,Cristian Rivero,Portero,24,España,0.2
-4,Charlie Pérez,Portero,20,España,0.2
+4,Charlie Pérez,Portero,20,España,0.1
 5,Omar Alderete,Defensa central,25,Paraguay,10.0
 6,Gabriel Paulista,Defensa central,31,Brasil,7.0
 7,Mouctar Diakhaby,Defensa central,25,Guinea,7.0
 8,Eray Cömert,Defensa central,24,Suiza,1.5
 9,Cristiano Piccini,Defensa central,29,Italia,1.2
 10,Cristhian Mosquera,Defensa central,18,España,1.0
-11,César Tárrega,Defensa central,20,España,0.2
-12,Rubén Iranzo,Defensa central,19,España,0.2
+11,César Tárrega,Defensa central,20,España,0.1
+12,Rubén Iranzo,Defensa central,19,España,0.1
 13,José Gayà,Lateral izquierdo,27,España,40.0
 14,Jesús Vázquez,Lateral izquierdo,19,España,5.0
 15,Toni Lato,Lateral izquierdo,24,España,1.5
@@ -25,14 +25,14 @@
 23,Ilaix Moriba,Mediocentro,19,Guinea,9.0
 24,Daniel Wass,Mediocentro,33,Dinamarca,6.0
 25,Koba Koindredi,Mediocentro,20,Francia,1.0
-26,Javi Guerra,Mediocentro,19,España,0.2
-27,Lass Sangaré,Mediocentro,20,Costa de Marfil,0.2
-28,Yellu Santiago,Mediocentro,18,España,0.2
-29,Pedro Alemañ,Mediocentro ofensivo,20,España,100.0
+26,Javi Guerra,Mediocentro,19,España,0.1
+27,Lass Sangaré,Mediocentro,20,Costa de Marfil,0.1
+28,Yellu Santiago,Mediocentro,18,España,0.1
+29,Pedro Alemañ,Mediocentro ofensivo,20,España,0.1
 30,Gonçalo Guedes,Extremo izquierdo,25,Portugal,40.0
 31,Denis Cheryshev,Extremo izquierdo,31,Rusia,2.5
 32,Álex Blanco,Extremo izquierdo,23,España,0.7
-33,Diego López,Extremo izquierdo,20,España,0.2
+33,Diego López,Extremo izquierdo,20,España,0.1
 34,Bryan Gil,Extremo derecho,21,España,18.0
 35,Hélder Costa,Extremo derecho,28,Angola,5.0
 36,Jason,Extremo derecho,27,España,2.5
@@ -42,4 +42,4 @@
 40,Hugo Duro,Delantero centro,22,España,10.0
 41,Marcos André,Delantero centro,25,Brasil,5.0
 42,Rubén Sobrino,Delantero centro,30,España,2.0
-43,Mario Dominguez,Delantero centro,18,España,0.2
+43,Mario Dominguez,Delantero centro,18,España,0.1
